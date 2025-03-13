@@ -26,7 +26,7 @@ This project is licensed under the MIT License.
 
 ## 🌐 Demo
  Experience the static YouTube Clone front-end in your browser.
-🔗 [Live Demo](https://LakshmiPriyaRajaram.github.io/YouTube-clone)
+🔗 [Live Demo](https://LakshmiPriyaRajaram.github.io/Youtube-clone)
 
 Enjoy exploring the design! 🎨📺
 
